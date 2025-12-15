@@ -17,17 +17,17 @@ The system is designed to analyze Dr. B.R. Ambedkar's seminal work, *"Castes in 
 ### 1. The Interactive Dashboard
 *A clean, research-oriented interface featuring a 55/45 split between the Chat Intelligence and the Knowledge Graph.*
 
-![Dashboard View](frontend\public\dashboard.png)
+![Dashboard View](frontend/public/dashboard.png)
 
 ### 2. Dynamic Knowledge Graph (Local Search)
 *When a user asks about "Endogamy", the graph dynamically zooms in to isolate relevant nodes (Sati, Widowhood) while the physics engine spreads them for clarity.*
 
-![Graph Search](frontend\public\search.png)
+![Graph Search](frontend/public/search.png)
 
 ### 3. Evidence & Citation Engine (Global Search)
 *The "Evidence Tab" allows users to verify the AI's claims. It displays specific text chunks (Local Context) and broad thematic summaries (Global Context) with confidence scores.*
 
-![Evidence View](frontend\public\evidence.png)
+![Evidence View](frontend/public/evidence.png)
 
 ---
 
