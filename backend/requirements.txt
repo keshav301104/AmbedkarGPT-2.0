@@ -1,0 +1,17 @@
+numpy
+pandas
+scikit-learn
+spacy
+sentence-transformers
+pypdf
+networkx
+python-louvain
+langchain
+langchain-community
+langchain-ollama
+ollama
+PyYAML
+fastapi
+uvicorn
+python-multipart
+streamlit

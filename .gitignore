@@ -1,0 +1,13 @@
+# Node modules (NEVER upload these)
+node_modules/
+dist/
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+# Mac/Windows junk
+.DS_Store
+Thumbs.db
